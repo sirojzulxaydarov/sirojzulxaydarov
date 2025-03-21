@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sirojzulxaydarov
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning english language
+- 🌱 I’m currently learning Spring Framework
 - 💞️ I’m looking to collaborate on start up poject
 - 📫 How to reach me sirojiddinzulxaydarov1@gmail.com 
 
